@@ -10,3 +10,12 @@ Tools Used: MySQL Workbench.
 Key Techniques: Window Functions (ROW_NUMBER), CTEs, Self Joins, Data Type Conversion.
 
 Steps Taken: Briefly list the 4 steps you took (Duplicates, Standardization, Nulls, Removal).
+
+#Exploratory Data Analysis
+
+Identified a rolling total of layoffs showing a massive spike in early 2023.
+
+Calculated that Amazon and Google had the highest total layoffs using Group By.
+
+Used Dense Rank to isolate the top 5 companies with the most layoffs per year.
+
